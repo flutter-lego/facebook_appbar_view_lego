@@ -1,7 +1,7 @@
 name: facebook_appbar_view_lego
 description: "Facebook Appbar View Lego"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/facebook_appbar_view_lego
 
 version: 1.0.0
 
